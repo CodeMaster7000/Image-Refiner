@@ -7,4 +7,4 @@ A set of Python programs, using the pillow module, to refine an image of your ch
 ## Prerequisites
 
 - Python 3
-- pillow module (can be installed simply with pip install pillow)
+- `pillow` module (can be installed simply with `pip install pillow`)
